@@ -1,6 +1,4 @@
-:tr:
-
-# Kodların Temel İşleyişi
+# Kodların Temel İşleyişi (:tr:)
 
 •• Proje PIC18F452 kullanılarak yapılmıştır.
 
@@ -26,9 +24,9 @@
 ![alt text](/img/circuit.jpg)
 
 
-:us:
+---
 
-# Basic Operation of Codes
+# Basic Operation of Codes (:us:)
 
 •• The project was made using PIC18F452.
 
