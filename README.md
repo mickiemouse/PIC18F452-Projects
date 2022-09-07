@@ -19,7 +19,7 @@
 •• Buradaki tek fark buton durumları ve led yakma işlemlerinin ayrı etiketler ile kontrolünün gerçekleşmesidir.
 
 
-## Projeye ait Resimler
+## Projeye ait Resim
 
 ![alt text](/img/circuit.jpg)
 
@@ -44,5 +44,5 @@
 ## For Button-LED-2.asm:
 •• The only difference here is that the button and led processes are controlled with separate labels.
 
-## Pictures of the project
+## Picture of the project
 ![alt text](/img/circuit.jpg)
